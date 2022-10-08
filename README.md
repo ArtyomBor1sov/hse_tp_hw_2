@@ -3,8 +3,6 @@
 
 Статус последнего запуска тестов:
 
-<img src="https://github.com/Artyom-Borisov/hse_tp_hw_2/workflows/Auto_Testing/badge.svg">
-
 [![Auto_Testing](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml/badge.svg)](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml)
 
 ### Структура проекта

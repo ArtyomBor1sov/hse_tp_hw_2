@@ -3,7 +3,7 @@ def _min(array):
     for i in range(1, len(array)):
         if array[i] < minimum:
             minimum = array[i]
-    return minimum + 1
+    return minimum
 
 def _max(array):
     maximum = array[0]

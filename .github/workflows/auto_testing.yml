@@ -14,4 +14,4 @@ jobs:
           python-version: '3.8'
           architecture: 'x64'
       - name: Run tests
-        run: test_for_HW_2.py
+        run: python test_for_HW_2.py

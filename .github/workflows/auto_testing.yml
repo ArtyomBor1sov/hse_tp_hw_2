@@ -1,6 +1,10 @@
 name: Auto_Testing
 
 on:
+  workflow_dispatch:
+    inputs:
+      comment:
+        description: 'Any comment'     
   push:
     branches:
       - '*'

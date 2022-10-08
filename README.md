@@ -3,7 +3,7 @@
 
 Статус последнего запуска тестов:
 
-<img src="https://github.com/Artyom-Borisov/hse_tp_hw_2/workflows/Auto_Testing/badge.svg?event=push">
+<img src="https://github.com/Artyom-Borisov/hse_tp_hw_2/workflows/Auto_Testing/badge.svg">
 
 ### Структура проекта
 - Папка _text_files_ содержит в себе текстовые файлы с входными данными

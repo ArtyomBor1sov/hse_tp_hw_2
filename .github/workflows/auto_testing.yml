@@ -1,7 +1,6 @@
 name: Auto_Testing
 
-on: |
-  workflow_dispatch
+on:
   push:
     branches:
       - '*'

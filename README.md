@@ -3,7 +3,7 @@
 
 Статус крайнего запуска тестов:
 
-[![Auto_Testing](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml/badge.svg)](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml)
+[![Auto_Testing Status](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml/badge.svg)](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml)
 
 ### Структура проекта
 - Папка _text_files_ содержит в себе текстовые файлы с входными данными

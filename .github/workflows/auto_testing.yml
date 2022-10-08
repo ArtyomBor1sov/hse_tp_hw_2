@@ -3,12 +3,12 @@ name: Auto_Testing
 on:
   push:
     branches:
-      - develop
+      - '*'
 jobs:
   run_tests:
     runs-on: [ubuntu-latest]
     steps:
-      - uses: actions/checkout@master
+      #- uses: actions/checkout@master
       - uses: actions/setup-python@v1
         with:
           python-version: '3.8'

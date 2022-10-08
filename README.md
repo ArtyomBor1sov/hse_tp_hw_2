@@ -1,7 +1,7 @@
 # ТЗ №2 - Борисов Артём (ББИ 224)
 ## hse_tp_hw_2
 
-Статус последнего запуска тестов:
+Статус крайнего запуска тестов:
 
 [![Auto_Testing](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml/badge.svg)](https://github.com/Artyom-Borisov/hse_tp_hw_2/actions/workflows/auto_testing.yml)
 

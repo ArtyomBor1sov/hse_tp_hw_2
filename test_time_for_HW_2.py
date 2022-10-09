@@ -36,11 +36,6 @@ if __name__ == '__main__':
         print(f'Время вычисления суммы для {curr_amount_of_nums} чисел: {curr_running_time} c.')
         amount_of_nums.append(curr_amount_of_nums)
         running_time.append(curr_running_time)
-'''
-    draw_plot(amount_of_nums, running_time,
-              'Зависимость времени работы программы от количества чисел',
-              'Количество чисел')
-'''
     power_of_two = [0]
     running_time = [curr_running_time]
     step = 25
@@ -55,6 +50,9 @@ if __name__ == '__main__':
         running_time.append(curr_running_time)
         print(f'Время вычисления суммы для {curr_amount_of_nums} чисел (каждое умножено на 2^{k}): {curr_running_time} c.')
 '''
+    draw_plot(amount_of_nums, running_time,
+              'Зависимость времени работы программы от количества чисел',
+              'Количество чисел')
     draw_plot(power_of_two, running_time,
               'Зависимость времени работы программы от увеличения разрядности',
               'Степень двойки')

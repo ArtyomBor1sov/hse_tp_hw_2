@@ -20,3 +20,5 @@ jobs:
           architecture: 'x64'
       - name: Run tests
         run: python test_for_HW_2.py
+      - name: Run time tests
+        run: python test_time_for_HW_2.py
